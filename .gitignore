@@ -1,5 +1,5 @@
 .vscode/
 __pycache__
 db.sqlite3
-dynowiki/static
-media/
+dynowiki/static/
+dynowiki/media/
